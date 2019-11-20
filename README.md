@@ -10,4 +10,9 @@ NiFi - Flow Management
 Kafka - Stream Processing
 Kudu - Column Oriented Data STore
 
-image::nifi.png[NiFi]
+![MiNiFi](minifi.png)
+![Apache MXNet](mxnet.png)
+![Apache Flink](flink.png)
+![Apache NiFi](nifi.png)
+![Apache Kafka](kafka.png)
+![Apache KuDu](kudu.png)
